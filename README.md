@@ -1,8 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 ## I am a Software QA Engineer <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="55">
->
->
->
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45"/>&nbsp;
@@ -19,10 +17,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" width="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>&nbsp;
+>
+>
           
- ## - :zap: I’m working as a Software QA Engineer.  I'm doing manual and some automation testing using Python, JavaScript and SQL languages.
-## - :zap: I have a computer science degree.
-## - :zap: I'm constantly working on improving my automation skills and learning something new.     
+ ### - :zap: I’m working as a Software QA Engineer.  I'm doing manual and some automation testing using Python, JavaScript and SQL languages.
+### - :zap: I have a computer science degree.
+### - :zap: I'm constantly working on improving my automation skills and learning something new.     
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
