@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif"
+## I am a QA Manual and Automation Engineer <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="55">
 <!--
 **DmytroZhuravel/DmytroZhuravel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
