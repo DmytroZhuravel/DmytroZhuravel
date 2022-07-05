@@ -4,7 +4,7 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Python/php-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/jquery/jquery@3.2/dist/jquery.min.js" alt="git" width="45" height="45"/>
 </p>
 <!--
