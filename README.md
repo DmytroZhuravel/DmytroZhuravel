@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## I am a QA Manual and Automation Engineer <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="55">
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
           
 <!--
 **DmytroZhuravel/DmytroZhuravel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
