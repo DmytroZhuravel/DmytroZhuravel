@@ -17,7 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>&nbsp;
           
-          
+ ## - :zap: I’m working as a Software QA Engineer.  I'm doing manual and some automation testing using Python, JavaScript and SQL languages.
+## - :zap: I finished the QA at Silicon Valley School(California).
+## - :zap: In my free time, I like to play tennis, go fishing and training at the gym.         
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
