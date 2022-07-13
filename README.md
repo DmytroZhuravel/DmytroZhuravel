@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am a Software QA Engineer <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60">           https://media.giphy.com/media/HZ7BqjPl1Mgh8uVqm8/giphy.gif
+## I am a Software QA Engineer <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60">    
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45"/>&nbsp;
@@ -27,6 +27,9 @@
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
+   <img src="https://media.giphy.com/media/HZ7BqjPl1Mgh8uVqm8/giphy.gif" ## width="45"/>&nbsp; 
           
 
           
