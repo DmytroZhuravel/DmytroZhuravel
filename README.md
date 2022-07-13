@@ -29,7 +29,7 @@
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
-   <img src="https://media.giphy.com/media/HZ7BqjPl1Mgh8uVqm8/giphy.gif" ## width="45"/>&nbsp; 
+
           
 
           
